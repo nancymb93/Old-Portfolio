@@ -1,3 +1,3 @@
 # Old Portfolio
 
-Portfolio from undergrad
+Portfolio from undergrad INCOMPLETE project
